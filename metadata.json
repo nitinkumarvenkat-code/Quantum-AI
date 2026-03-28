@@ -1,0 +1,8 @@
+{
+  "name": "Quantum AI",
+  "description": "A premium, futuristic AI system with multi-modal capabilities including chat, translation, coding, and creative generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
